@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Certfied Dating</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--  Navigation Drawer  -->
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="agreement">Agreement</string>
+
+    <!--    Fragment tags-->
+    <string name="tag_fragment_home">Home</string>
+    <string name="tag_fragment_saved_connections">Saved Connections</string>
+    <string name="tag_fragment_messages">Messages</string>
+    <string name="tag_fragment_gallery">Gallery</string>
+    <string name="tag_fragment_view_profile">View Profile</string>
+    <string name="tag_fragment_chat">Chat</string>
+    <string name="tag_fragment_agreement">Agreement</string>
+
+    <!--  Dialog message  -->
+    <string name="first_time_user_message">We noticed that this is your first login.
+        Kindly input your preferences in settings menu so we  can match you up.</string>
+
+    <!--  Intent Bundle Extras  -->
+    <string name="intent_new_camera_photo">intent_new_camera_photo</string>
+    <string name="intent_new_gallery_photo">intent_new_gallery_photo</string>
+    <string name="intent_user">intent_user</string>
+    <string name="intent_message">intent_message</string>
+
+</resources>

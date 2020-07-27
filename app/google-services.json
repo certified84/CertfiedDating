@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "529360787588",
+    "firebase_url": "https://church-app-cb9d1.firebaseio.com",
+    "project_id": "church-app-cb9d1",
+    "storage_bucket": "church-app-cb9d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529360787588:android:516ad6497965f253558ad1",
+        "android_client_info": {
+          "package_name": "com.certified.certfieddating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529360787588-jpkab8egpdlm6r1pj3vnq0rktpm6jd9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC29lDWUMWT1JYTwOm53wKjS5_JQU5Y1RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529360787588-jpkab8egpdlm6r1pj3vnq0rktpm6jd9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529360787588:android:f12f6b5262545c0e558ad1",
+        "android_client_info": {
+          "package_name": "com.certified.churchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529360787588-jpkab8egpdlm6r1pj3vnq0rktpm6jd9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC29lDWUMWT1JYTwOm53wKjS5_JQU5Y1RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529360787588-jpkab8egpdlm6r1pj3vnq0rktpm6jd9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
